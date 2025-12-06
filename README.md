@@ -1,4 +1,6 @@
 # TP 13: Web Service SOAP with Spring Boot and Apache CXF
+<img width="867" height="766" alt="image" src="https://github.com/user-attachments/assets/9e2b2b09-75ac-4db9-a112-c9aa8aeddd7a" />
+
 
 This project implements a SOAP Web Service for managing bank accounts (`Compte`) using Spring Boot and Apache CXF.
 
